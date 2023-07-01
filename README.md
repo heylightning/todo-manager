@@ -12,7 +12,7 @@ Develop a command-line application in Rust that allows users to manage a todo li
 ## Setup to run main.rs file : -
 1. Clone the repository:
 ```
-git clone 
+git clone <repo-link>
 ```
 2. Change directory:
 ```
